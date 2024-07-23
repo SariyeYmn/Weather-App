@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="userProfile">Hi, Alex</string>
+    <string name="coin">2150</string>
+    <string name="choice1">Create Quiz</string>
+    <string name="choice2">Single Player</string>
+    <string name="choice3">Multi Player</string>
+    <string name="seeText">See All</string>
+    <string name="categoryText">Quiz Categories</string>
+    <string name="category1">Science</string>
+    <string name="category2">History</string>
+    <string name="category3">Sport</string>
+    <string name="category4">Art</string>
+    <string name="constraintText">Try your luck\nTo get More Score</string>
+    <string name="constraintText2">Try it now</string>
+    <string name="questionNumber">Questions 1/10</string>
+    <string name="leaderChoice1">Weekly</string>
+    <string name="leaderChoice2">Monthly</string>
+    <string name="leaderChoice3">All Time</string>
+    <string name="text">00000000</string>
+    <string name="textt">text</string>
+    <string name="textTitle">title</string>
+    <string name="textS">YOUR SCORE:</string>
+    <string name="textScore">0</string>
+    <string name="backBtn">Back to main</string>
+    <string name="answer">Answer</string>
+
+
+</resources>
